@@ -9,7 +9,7 @@ const int BRIGHTNESS = 128;
 
 const int MAX_ANIMATIONS = 6;
 const int MAX_PIXELSTRIPS = 4;
-const int I2C_ADDRESS = 4;
+const int I2C_ADDRESS = 0x41;
 
 const int IDLE_FIRE_ANIMATION = 0;
 const int BLUE_ANIMATION = 1;
